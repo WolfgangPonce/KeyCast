@@ -1,0 +1,69 @@
+# ──────────────────────────────────────────────
+#  Python
+# ──────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ──────────────────────────────────────────────
+#  PyInstaller
+# ──────────────────────────────────────────────
+*.manifest
+# KeyCast.spec is committed (it is part of the build)
+# but generated build artefacts are ignored
+build/
+dist/
+
+# ──────────────────────────────────────────────
+#  KeyCast runtime
+# ──────────────────────────────────────────────
+keycast_config.json
+
+# ──────────────────────────────────────────────
+#  IDEs / editors
+# ──────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ──────────────────────────────────────────────
+#  OS
+# ──────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# ──────────────────────────────────────────────
+#  Logs
+# ──────────────────────────────────────────────
+*.log
