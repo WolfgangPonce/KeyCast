@@ -33,7 +33,7 @@ The overlay starts in the bottom-right corner of your primary monitor. Open Sett
 ## Running from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/KeyCast.git
+git clone https://github.com/WolfgangPonce/KeyCast.git
 cd KeyCast
 pip install -r requirements.txt
 python main.py
@@ -66,4 +66,4 @@ MIT. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by Wolfgang ([GOAT Media Group](https://github.com/YOUR_USERNAME)).
+Built by Wolfgang ([GOAT Media Group](https://github.com/WolfgangPonce)).
