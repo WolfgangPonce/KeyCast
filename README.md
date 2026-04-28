@@ -1,11 +1,10 @@
-<img width="441" height="516" alt="Screenshot_2" src="https://github.com/user-attachments/assets/29c9add1-a531-4ff3-971d-f037aa7d0c29" />
-<img width="393" height="90" alt="Screenshot_3" src="https://github.com/user-attachments/assets/7bd32f3d-1e2e-41fa-b1b8-34c4e07e6e04" />
-
 # KeyCast
 
 A lightweight keyboard overlay for screen recording and live streaming on Windows. KeyCast displays your keypresses as floating, fade-out chips on top of any application, so viewers can see exactly what you are typing or which shortcuts you are using.
 
 Built with Python and PyQt6.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/WolfgangPonce)
 
 ## Features
 
@@ -21,6 +20,9 @@ Built with Python and PyQt6.
   - Text and background colours
 - **Persistent settings** saved to `keycast_config.json` next to the executable.
 - **Self-contained .exe** when built. No Python install required for end users.
+
+ <img width="441" height="516" alt="Screenshot_2" src="https://github.com/user-attachments/assets/29c9add1-a531-4ff3-971d-f037aa7d0c29" />
+<img width="393" height="90" alt="Screenshot_3" src="https://github.com/user-attachments/assets/7bd32f3d-1e2e-41fa-b1b8-34c4e07e6e04" />
 
 ## Requirements
 
